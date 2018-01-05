@@ -1,0 +1,5 @@
+setwd("/home/joe/CovrTest")
+source("./R/hello.R")
+CovrTest::adder(1, 3)
+CovrTest::adder(4, 1)
+#CovrTest::adder(1,5)

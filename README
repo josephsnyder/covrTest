@@ -1,0 +1,7 @@
+Within RSTUDIO in this project directory execute the following commands to generate
+R Coverage:
+
+result = covr::package_coverage(path=".", type=c("tests"),combine_types=TRUE,quiet=FALSE)
+covr::to_cobertura(result,"coverage.xml")
+
+

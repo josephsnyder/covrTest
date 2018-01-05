@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "# Hello, world!\n#\n# This is an example function named 'hello'\n# which prints 'Hello, world!'.\n#\n# You can learn more about package authoring with RStudio at:\n#\n#   http://r-pkgs.had.co.nz/\n#\n# Some useful keyboard shortcuts for package authoring:\n#\n#   Build and Reload Package:  'Ctrl + Shift + B'\n#   Check Package:             'Ctrl + Shift + E'\n#   Test Package:              'Ctrl + Shift + T'\n\nhelloTest <- function() {\n  print(\"Hello, world! Try to Covr this!\")\n  print(\"TEST\")\n}\n\ngoodbye <- function() {\n  print(\"Goodbye cruel world!\")\n}\n\nadder <- function(a, b) {\n  print(a)\n  print(b)\n  if (b > 4) {\n    print(\"Good be a good one\")\n  }\n}\n\ngoodbye <- function(name) {\n  print(\"Goodbye! See ya soon!\")\n  print(paste(\"from, \", name, sep = \"  \"))\n}\n",
+    "created" : 1496344721579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2797643970",
+    "id" : "272AFEE",
+    "lastKnownWriteTime" : 1496781949,
+    "last_content_update" : 1496781949840,
+    "path" : "~/CovrTest/R/hello.R",
+    "project_path" : "R/hello.R",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

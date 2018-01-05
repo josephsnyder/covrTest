@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-"
+	BuildStamp="20180104-1945-Experimental"
+	Name="pcoDev"
+	Generator="ctest-3.5.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="pcoDev"
+	OSRelease="4.4.0-91-generic"
+	OSVersion="#114-Ubuntu SMP Tue Aug 8 11:56:56 UTC 2017"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="60"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="1"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="3325"
+	TotalPhysicalMemory="3260"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3591.70"
+	>
+	<Coverage>
+		<StartDateTime>Jan 04 14:45 EST</StartDateTime>
+		<StartTime>1515095110</StartTime>
+		<File Name="hello.R" FullPath="./R/hello.R" Covered="true">
+			<LOCTested>5</LOCTested>
+			<LOCUnTested>3</LOCUnTested>
+			<PercentCoverage>62.50</PercentCoverage>
+			<CoverageMetric>0.83</CoverageMetric>
+		</File>
+		<LOCTested>5</LOCTested>
+		<LOCUntested>3</LOCUntested>
+		<LOC>8</LOC>
+		<PercentCoverage>62.50</PercentCoverage>
+		<EndDateTime>Jan 04 14:45 EST</EndDateTime>
+		<EndTime>1515095110</EndTime>
+		<ElapsedMinutes>0.00</ElapsedMinutes>
+	</Coverage>
+</Site>

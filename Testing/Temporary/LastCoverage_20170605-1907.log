@@ -1,0 +1,6 @@
+Performing coverage: 1.49669e+09
+Removing old coverage log: /home/joe/CovrTest/Testing/20170605-1907/CoverageLog-0.xml
+	Covered LOC:         5
+	Not covered LOC:     3
+	Total LOC:           8
+	Percentage Coverage: 62.50%

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd(\"/home/joe/CovrTest\")\nsource(\"./R/hello.R\")\n#goodbye(\"JOE\")\nCovrTest::goodbye(\"test\")\n",
+    "created" : 1496687699343.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "349407588",
+    "id" : "4F455510",
+    "lastKnownWriteTime" : 1496688992,
+    "last_content_update" : 1496688992387,
+    "path" : "~/CovrTest/tests/test1.R",
+    "project_path" : "tests/test1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
